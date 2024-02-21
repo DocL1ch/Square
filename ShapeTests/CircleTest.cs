@@ -1,6 +1,4 @@
-using NuGet.Frameworks;
-
-namespace ShapeTests
+namespace Shapes.Tests
 {
     [TestClass]
     public class CircleTest

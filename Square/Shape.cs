@@ -1,4 +1,4 @@
-﻿namespace Square
+﻿namespace Shapes.Lib
 {
     /// <summary>
     /// Абстрактный класс фигуры
