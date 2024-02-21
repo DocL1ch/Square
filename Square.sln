@@ -3,9 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.8.34316.72
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Shapes.Lib", "Square\Shapes.Lib.csproj", "{31AABBE3-D4E4-4BF7-84E4-91CB312E81E8}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Shapes.Lib", "Shapes.Lib\Shapes.Lib.csproj", "{31AABBE3-D4E4-4BF7-84E4-91CB312E81E8}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Shapes.Tests", "ShapeTests\Shapes.Tests.csproj", "{39914B7A-317B-4DA8-9AF2-72216A1FB5B4}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Shapes.Tests", "Shapes.Tests\Shapes.Tests.csproj", "{39914B7A-317B-4DA8-9AF2-72216A1FB5B4}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Shapes.Api", "Shapes.Api\Shapes.Api.csproj", "{42321F22-4ACB-43B9-8239-1C92B4A62ADA}"
 EndProject

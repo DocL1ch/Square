@@ -17,7 +17,7 @@
   </ItemGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\Square\Shapes.Lib.csproj" />
+    <ProjectReference Include="..\Shapes.Lib\Shapes.Lib.csproj" />
   </ItemGroup>
 
 </Project>
